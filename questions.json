@@ -1,0 +1,28 @@
+{
+    "questions": [
+        "is_food",
+        "is_real",
+        "is_male",
+        "is_live",
+        "is_teacher",
+        "is_employee",
+        "is_student",
+        "is_management",
+        "is_handsome",
+        "is_beatiful",
+        "is_football_player"
+    ],
+    "questions_text": {
+        "is_food": "Bu bir yiyecek mi?",
+        "is_real": "Bu bir gerçek varlık mı?",
+        "is_male": "Bu bir erkek mi?",
+        "is_live": "Hala hayatta mı?",
+        "is_teacher": "Akademisyen mi?",
+        "is_employee": "Çalışan (Hizmetli) mi?",
+        "is_student": "Öğrenci mi?",
+        "is_management": "İdari yönetici mi?",
+        "is_handsome": "Yakışıklı mı?",
+        "is_beatiful": "Güzel mi?",
+        "is_football_player": "Futbolcu mu ?"
+    }
+}
